@@ -17,7 +17,7 @@ namespace Livros.Test
 
             var listaLivros = ExerciciosTestes1.Livros.AdicionarLivros(livro);
 
-
+            Assert.Contains(livro, listaLivros);
         }
     }
 }

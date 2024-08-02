@@ -1,0 +1,15 @@
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\bin\Debug\net8.0\ExerciciosTestes1.exe
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\bin\Debug\net8.0\ExerciciosTestes1.deps.json
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\bin\Debug\net8.0\ExerciciosTestes1.runtimeconfig.json
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\bin\Debug\net8.0\ExerciciosTestes1.dll
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\bin\Debug\net8.0\ExerciciosTestes1.pdb
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\ExerciciosTestes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\ExerciciosTestes1.AssemblyInfoInputs.cache
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\ExerciciosTestes1.AssemblyInfo.cs
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\ExerciciosTestes1.csproj.CoreCompileInputs.cache
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\ExerciciosTestes1.sourcelink.json
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\ExerciciosTestes1.dll
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\refint\ExerciciosTestes1.dll
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\ExerciciosTestes1.pdb
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\ExerciciosTestes1.genruntimeconfig.cache
+C:\Users\38606125814\Desktop\Projetos\Exercicios\ExerciciosSobreTestes\ExerciciosTestes1\obj\Debug\net8.0\ref\ExerciciosTestes1.dll

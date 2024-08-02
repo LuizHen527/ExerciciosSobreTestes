@@ -12,7 +12,7 @@ namespace ExerciciosTestes1
         {
             string[] livros = { "O Iluminado, Stephen King", "Diario de Anne Frank, Anne Frank", "1984, George Orwell" };
 
-            livros[4] = livro;
+            livros = livros.Append<string>(livro).ToArray();
 
             return livros;
         }
